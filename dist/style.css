@@ -1,3 +1,31 @@
 * {
     font-family: "Segoe UI", "Helvetica Neue", "Helvetica", Arial, sans-serif
 }
+
+table {
+    text-align: center;
+}
+
+thead {
+    font-size: 20px;
+}
+
+tbody {
+    font-size: 14px;
+}
+
+td {
+    width: 50%;
+}
+
+img {
+    width: 100%;
+}
+
+.flyer {
+    content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/350px-First_flight2.jpg);
+}
+
+.a350 {
+    content: url(https://www.flugzeuglexikon.com/ILA%20-%20Luftfahrtausstellung/Passagierflugzeuge/Airbus%20A350%20-%20Passagierflugzeug/Airbus-A350-900---Flugansicht.jpg);
+}
